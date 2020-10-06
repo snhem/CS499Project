@@ -17,6 +17,8 @@ This will be my first project using what I learned for basic web development. Th
 
 ```markdown
 Syntax highlighted code block
+[Enhancement One: Software Design and Engineering](https://github.com/snhem/CS499Project/blob/gh-pages/EnhancementOne.html)
+
 
 # Header 1
 ## Header 2
