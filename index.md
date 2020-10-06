@@ -1,10 +1,18 @@
-## Welcome to GitHub Pages
+# Interactive Resume
 
-You can use the [editor on GitHub](https://github.com/snhem/CS499Project/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This will be my first project using what I learned for basic web development. This will be used for my capstone class
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Refinement Plan and Code review
+### Category One: Software Engineering/Design
+  The artifact that I will be choosing is something that I learned outside of school using only HTML and CSS. When the project was first made, it was just a simple one-page resume with very minimal design. For this part of the project – the designing aspect, I wanted to design it to make it more appealing, such as an interactive resume, where the user will be able to navigate to different sections - such as a contact me page. I would like to add a carousel slide that contains an "About me" section, skills, and education. I will mainly be using what I learned outside of school in a web development bootcamp that I am taking. I plan to use that knowledge and expand upon it since the current webpage needs more work. 
+  
+### Category Two: Algoirthms and Data Structures
+  For this section, I will be applying what I learned from CS-250: Software development lifecycle. This class went into depth about scrum master, testers, product owners, and developers. Each week we were to take on different roles and see a different standpoint of each title. While doing so, we created test cases to test against the planned outcome. 
 
-### Markdown
+
+### Category Three: Databases
+  For this part of the project I plan on using what I learned from my mongoDB course. This was a course that I struggled in so I wanted to take on the challenge and incorporate it into my project. To include it, I plan on adding some type of form to the contact me page, where the user will have to fill out information such as their first name, last name, and email. Upon submitting, their information will be stored into a database. 
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -27,6 +35,13 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+
+
+
+
+
+
 
 ### Jekyll Themes
 
