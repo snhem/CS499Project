@@ -20,7 +20,7 @@ The artifact that I have chosen was something I worked on outside of school in a
 I decided to choose this artifact because I wanted to build upon it. I created it using only HTML and CSS, so it is not the interesting so far. By choosing to enhance this, I would imagine that I will run into some challenges - by going through these challenges, it will allow me to further understand a certain concept. I've been working towards buidling an ePortfolio for some time now so this will give me the perfect opportunity to do so, which was why I decided to choose this project. 
 Some changes that I made so far - since I had already divided the page into sections (divs/containers), for the second container, I had changed that into a carousel slider. In the slider, it contains - "About me", "Experiences", and "Skills". The slider will move on its own once the user interacts with it. Previous and next buttons were added to it in case they want to review the slides again. I had also added a navigation bar that contains a dropdown menu - This menu includes "Contact me, aout me, and Experience". When clicking on each of the items, it will bring the user down to the corresponding links using an anchor tag. Next, I created a button that will bring the user to another page - here it will allow the user to fill out a form that will be saved into a database. This will be covered in detail more in the database enhancement section. 
 
-Here is a link to the Project: [Enhancements](index.html)
+Here is a link to my repository for changes in the html file: [Enhancements](index.html)
 
 
 
