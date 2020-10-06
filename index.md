@@ -3,6 +3,7 @@
 This will be my first project using what I learned for basic web development. This will be used for my capstone class
 
 ## Refinement Plan and Code review
+
 ### Category One: Software Engineering/Design
   The artifact that I will be choosing is something that I learned outside of school using only HTML and CSS. When the project was first made, it was just a simple one-page resume with very minimal design. For this part of the project – the designing aspect, I wanted to design it to make it more appealing, such as an interactive resume, where the user will be able to navigate to different sections - such as a contact me page. I would like to add a carousel slide that contains an "About me" section, skills, and education. I will mainly be using what I learned outside of school in a web development bootcamp that I am taking. I plan to use that knowledge and expand upon it since the current webpage needs more work. 
   
@@ -13,32 +14,11 @@ This will be my first project using what I learned for basic web development. Th
 ### Category Three: Databases
   For this part of the project I plan on using what I learned from my mongoDB course. This was a course that I struggled in so I wanted to take on the challenge and incorporate it into my project. To include it, I plan on adding some type of form to the contact me page, where the user will have to fill out information such as their first name, last name, and email. Upon submitting, their information will be stored into a database. This section will allow me to look into Javascript, node.js, mongoose, express, etc. So, there are a lot of new topics for me to review in order to get started on this. 
 
+### Enhancement One: Software Engineering and Design
 
-
-```markdown
-Syntax highlighted code block
-[Enhancement One: Software Design and Engineering](https://github.com/snhem/CS499Project/blob/gh-pages/EnhancementOne.html)
-
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-
-
+The artifact that I have chosen was something I worked on outside of school in a web development bootcamp. I never took any web development course at SNHU so I thought it would be interesting to look into. At the start of the project, it began with only a one-page site that only included, some things about me and my experiences. This was created some time in the middle of July of 2020. 
+I decided to choose this artifact because I wanted to build upon it. I created it using only HTML and CSS, so it is not the interesting so far. By choosing to enhance this, I would imagine that I will run into some challenges - by going through these challenges, it will allow me to further understand a certain concept. I've been working towards buidling an ePortfolio for some time now so this will give me the perfect opportunity to do so, which was why I decided to choose this project. 
+Some changes that I made so far - since I had already divided the page into sections (divs/containers), for the second container, I had changed that into a carousel slider. In the slider, it contains - "About me", "Experiences", and "Skills". The slider will move on its own once the user interacts with it. Previous and next buttons were added to it in case they want to review the slides again. I had also added a navigation bar that contains a dropdown menu - This menu includes "Contact me, aout me, and Experience". When clicking on each of the items, it will bring the user down to the corresponding links using an anchor tag. Next, I created a button that will bring the user to another page - here it will allow the user to fill out a form that will be saved into a database. This will be covered in detail more in the database enhancement section. 
 
 
 
