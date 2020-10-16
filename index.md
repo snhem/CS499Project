@@ -31,6 +31,8 @@ While I did not mention other courses, I still had a great time taking them. Wha
   For this part of the project I plan on using what I learned from my mongoDB course. This was a course that I struggled in so I wanted to take on the challenge and incorporate it into my project. To include it, I plan on adding some type of form to the contact me page, where the user will have to fill out information such as their first name, last name, and email. Upon submitting, their information will be stored into a database. This section will allow me to look into Javascript, node.js, mongoose, express, etc. So, there are a lot of new topics for me to review in order to get started on this. 
   
 ### Code review
+This code review was how the project initially looked like. I went into some detail of what I wanted to implement into the project and discuss how I can write cleaner code. I did not make a new code review because I would like to reference this one and see what I was able and not able to implement in the final submission.
+
 1. [Code review Part one](https://youtu.be/fcPqnjU3qbc)
 2. [Code review Part two](https://youtu.be/bPsA3hCZFos)
 
